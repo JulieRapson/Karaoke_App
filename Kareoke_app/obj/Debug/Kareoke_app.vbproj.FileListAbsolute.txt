@@ -1,0 +1,13 @@
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\bin\Debug\Kareoke_app.exe.config
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\bin\Debug\Kareoke_app.exe
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\bin\Debug\Kareoke_app.pdb
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\bin\Debug\Kareoke_app.xml
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.vbproj.AssemblyReference.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.Resources.resources
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.SplashScreen1.resources
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.vbproj.GenerateResource.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.vbproj.CoreCompileInputs.cache
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.exe
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.xml
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.pdb
+C:\Users\myram\OneDrive\classes\GUID2023\Weeklyassignment7\Kareoke_app\obj\Debug\Kareoke_app.Form1.resources
